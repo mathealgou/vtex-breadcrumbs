@@ -1,3 +1,2 @@
-# Store Block course template
+# Breadcrumbs for custom routes
 
-Here you'll learn how to create awesome Store Framework blocks!
