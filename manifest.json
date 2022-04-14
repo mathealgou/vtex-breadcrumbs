@@ -1,9 +1,9 @@
 {
   "vendor": "vtex",
-  "name": "countdown",
+  "name": "custom-breadcrumb",
   "version": "0.0.1",
-  "title": "Countdown",
-  "description": "Countdown component",
+  "title": "Custom Breadcrumb",
+  "description": "Breadcrumb component",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",
