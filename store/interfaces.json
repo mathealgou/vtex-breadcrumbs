@@ -1,5 +1,5 @@
 {
-  "countdown": {
-    "component": "Breadcrumb"
+  "custom-breadcrumb": {
+    "component": "CustomBreadcrumb"
   }
 }

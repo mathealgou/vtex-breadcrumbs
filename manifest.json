@@ -3,7 +3,7 @@
   "name": "custom-breadcrumb",
   "version": "0.0.1",
   "title": "Custom Breadcrumb",
-  "description": "Breadcrumb component",
+  "description": "CustomBreadcrumb component",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "vtex.styleguide": "9.x",
-    "vtex.css-handles": "0.x"
+    "vtex.css-handles": "0.x",
+    "vtex.store-icons": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

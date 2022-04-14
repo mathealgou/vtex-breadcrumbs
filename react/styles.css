@@ -1,0 +1,7 @@
+.black {
+  color: black;
+  text-decoration: none;
+}
+.captalize {
+  text-transform: capitalize;
+}
