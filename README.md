@@ -10,7 +10,7 @@ A breadcrumbs components for custom routes inside a vtexio store.
 1. Adding the app as a theme dependency in the `manifest.json` file;
 
 ```json
-    "vtex.custom-breadcrumb": "0.x",
+    "avantivtexio.custom-breadcrumb": "0.x",
 ```
 
 2. Declaring the app's main block in a given theme template or inside another block from the theme.
